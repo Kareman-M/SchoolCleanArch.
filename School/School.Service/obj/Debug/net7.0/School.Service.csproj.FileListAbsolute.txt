@@ -1,0 +1,12 @@
+E:\KM\RoadMap\CleanArch\School\School.Service\bin\Debug\net7.0\School.Service.deps.json
+E:\KM\RoadMap\CleanArch\School\School.Service\bin\Debug\net7.0\School.Service.dll
+E:\KM\RoadMap\CleanArch\School\School.Service\bin\Debug\net7.0\School.Service.pdb
+E:\KM\RoadMap\CleanArch\School\School.Service\obj\Debug\net7.0\School.Service.csproj.AssemblyReference.cache
+E:\KM\RoadMap\CleanArch\School\School.Service\obj\Debug\net7.0\School.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\KM\RoadMap\CleanArch\School\School.Service\obj\Debug\net7.0\School.Service.AssemblyInfoInputs.cache
+E:\KM\RoadMap\CleanArch\School\School.Service\obj\Debug\net7.0\School.Service.AssemblyInfo.cs
+E:\KM\RoadMap\CleanArch\School\School.Service\obj\Debug\net7.0\School.Service.csproj.CoreCompileInputs.cache
+E:\KM\RoadMap\CleanArch\School\School.Service\obj\Debug\net7.0\School.Service.dll
+E:\KM\RoadMap\CleanArch\School\School.Service\obj\Debug\net7.0\refint\School.Service.dll
+E:\KM\RoadMap\CleanArch\School\School.Service\obj\Debug\net7.0\School.Service.pdb
+E:\KM\RoadMap\CleanArch\School\School.Service\obj\Debug\net7.0\ref\School.Service.dll
